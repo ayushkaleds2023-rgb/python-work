@@ -1,1 +1,1 @@
-# python-work
+import numpy as np
